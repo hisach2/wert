@@ -1,0 +1,207 @@
+body{
+background-image: url("https://i.pinimg.com/originals/82/0f/27/820f2723962e710c65a7028091bf77f5.jpg");
+background-blend-mode: darken;
+
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    background-color: red ;
+}
+h2 {
+    color: rgb(255, 0, 0);
+    background-color: black ;
+}
+h3 {
+    color: rgb(255, 0, 0);
+    background-color: rgb(0, 0, 0) ;
+}
+body{
+    background-color: rgb(34, 34, 34);
+}
+.artist1{
+    opacity: 1;
+    background-color: black
+    ;border: white;
+
+}
+.artist2{
+    opacity: 1;
+    background-color: black
+    ;border: white;
+
+}
+.artist3{
+    opacity: 1;
+    background-color: black
+    ;border: white;
+
+}
+.artist4{
+    opacity: 1;
+    background-color: black
+    ;border: white;
+
+}
+.artist5{
+    opacity: 1;
+    background-color: black
+    ;border: white;
+
+}
+.artist6{
+    opacity: 1;
+    background-color: black
+    ;border: white;
+
+}
+.blok1{
+    border: 1px;
+    color: rgb(0, 0, 0);
+    border-color: white;
+    width:300px ;
+    height:700px ;
+    opacity: 0;
+    position: relative;
+    right: 15px;
+    bottom:500px;
+    padding: 20px;}
+   
+
+.blok2{
+    border: 1px;
+    color: rgb(230, 230, 230);
+    border-color: white;
+    width:300px ;
+    height:700px ;
+    opacity:0;
+    position: relative;
+    left: 300px;
+    bottom:1250px;
+    padding: 20px;}
+
+
+
+
+.blok1:hover{
+    
+    opacity: 1;
+}
+
+
+
+.artist2:hover{
+
+    opacity: 0.2;
+}
+
+.blok2:hover{
+    
+    opacity: 1;
+}
+
+
+
+.blok3{
+    border: 1px;
+    color: rgb(0, 0, 0);
+    border-color: white;
+    width:300px ;
+    height:700px ;
+    opacity:0;
+    position: relative;
+    left: 620px;
+    bottom:2060px;
+    padding: 20px;}
+
+.artist3:hover{
+
+    opacity: 0.2;
+}
+
+.blok3:hover{
+
+    opacity: 1;
+}
+
+.artist4:hover{
+
+    opacity: 0.2;
+}
+
+
+.artist5:hover{
+
+    opacity: 0.2;
+}
+
+
+.artist6:hover{
+
+    opacity: 0.2;
+}
+
+
+
+.blok4{
+    border: 1px;
+    color: rgb(255, 255, 255);
+    border-color: white;
+    width:300px ;
+    height:700px ;
+    opacity: 0;
+    position: relative;
+    right: 15px;
+    bottom:2500px;
+    padding: 20px;}
+
+.blok4:hover
+{
+
+    opacity: 1;
+}
+
+
+
+.blok5{
+    border: 1px;
+    color: rgb(230, 230, 230);
+    border-color: white;
+    width:300px ;
+    height:700px ;
+    opacity:0;
+    position: relative;
+    left: 300px;
+    bottom:3250px;
+    padding: 20px;}
+.blok5:hover:hover
+{
+
+    opacity: 1;
+}
+
+.blok6{
+    border: 1px;
+    color: rgb(255, 255, 255);
+    border-color: white;
+    width:300px ;
+    height:700px ;
+    opacity:0;
+    position: relative;
+    left: 620px;
+    bottom:3950px;
+    padding: 20px;}
+
+
+.blok6:hover
+{
+
+    opacity: 1;
+}
+.obshii
+{display: flex;
+justify-content: space-between;}
+
+.obshii1
+{display: flex;
+justify-content: space-between;}
